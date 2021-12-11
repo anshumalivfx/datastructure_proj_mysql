@@ -1,0 +1,1 @@
+g++ -o mainwithsql -I/usr/local/include -I/usr/local/mysql-8.0.26-macos11-arm64/include -W -lmysqlclient -L/usr/local/mysql-8.0.26-macos11-arm64/lib  mainwithsql.cpp
